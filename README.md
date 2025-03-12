@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-I am suyupilemao, now a graduate student in University of Science and Technology of China. For now, I am doing my thesis on open quantum systems and chemical reaction dynamics in condensed phase. I participate in the project by our group for developing an open quantum simulating package (based on the hierarchical equations of motion). You may also see my scientific publications via the Google scholar <holar.google.com/citations?view_op=new_articles&hl=zh-TW&imq=Yu+Su#>.
+I am suyupilemao, now a graduate student in University of Science and Technology of China. For now, I am doing my thesis on open quantum systems and chemical reaction dynamics in condensed phase. I participate in the project by our group for developing an open quantum simulating package (based on the hierarchical equations of motion). You may also see my scientific publications via the [Google scholar](holar.google.com/citations?view_op=new_articles&hl=zh-TW&imq=Yu+Su#).
 
 <!--
 **suyupilemao/suyupilemao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
